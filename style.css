@@ -1,0 +1,136 @@
+
+            .head{
+                color: black;
+                position: absolute;
+                left: 550px;
+                font-size: 40px;
+                font-family: Sans-serif;
+                font-style: Verdana;
+                font-weight: 150;
+            }
+            .main{
+                background-color: white;
+                border: 1px solid rgb(219, 204, 204);
+                border-radius: 11px;
+                height: 63%;
+                width: 37%;
+                position: absolute;
+                top: 170px;
+                left:420px;
+
+            }
+            .h3{
+                font-family: Sans-serif;
+                font-style: Verdana;
+                position: absolute;
+                left: 182px;
+                top: 10px;
+                font-size: 29px;
+                font-weight:1px;
+            }
+            .firstname{
+                position: absolute;
+                left: 34px;
+                top:93px;
+                width: 175px;
+                height: 35px;
+                border: 1px solid rgb(222,222,222);
+                border-radius: 4px;
+            }
+            .lastname{
+                position: absolute;
+                left: 242px;
+                top:93px;
+                width: 175px;
+                height: 35px;
+                border: 1px solid rgb(222,222,222);
+                border-radius: 4px;
+            }
+            .email{
+                position: absolute;
+                left: 85px;
+                top:156px;
+                width: 300px;
+                height: 35px;
+                border: 1px solid rgb(222,222,222);
+                border-radius: 4px;
+            }
+            .pass{
+                position: absolute;
+                left: 85px;
+                top:219px;
+                width: 300px;
+                height: 35px;
+                border: 1px solid rgb(222,222,222);
+                border-radius: 4px;
+            }
+            .confirm{
+                position: absolute;
+                left: 242px;
+                top:219px;
+                width: 175px;
+                height: 35px;
+                border: 1px solid rgb(222,222,222);
+                border-radius: 4px;
+            }
+            .passnote{
+                font-size: 12px;
+                position: absolute;
+                top: 248px;
+                left: 36;
+            }
+            .tag{
+                position: absolute;
+                top: 300px;
+                left:159px;
+                text-decoration: none;
+                color:rgb(56,113,224);
+            }
+            
+            .next{
+                border: 1px solid rgb(219, 204, 204);
+                border-radius: 5px;
+                height: 36px;
+                width: 85px;
+                background-color:rgb(56,113,224);
+                position: absolute;
+                top: 529px;
+                left:606px;
+            }
+            .tag3{
+                position: absolute;
+                top: 539px;
+                left:616px;
+                border-radius: 10px;
+                font-size: 16px;
+                color: rgb(255, 253, 253);
+                text-decoration: none;
+                font-family: Sans-serif;
+                font-style: Verdana;
+                font-weight: 150;
+            }
+            .img{
+                height: 150px;
+                width: 150px;
+                position: absolute;
+                left: 821px;
+                top:257px;
+            }
+            .bg{
+                margin: 0%;
+                width: 136%;
+                height: 100%;
+                position: absolute;
+                top: 5px;
+                left: -513px;
+                background-size: 2958px;
+                
+            }
+.back1{
+    background-image: url('bg.JPEG');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      background-size: cover;
+}
+      
